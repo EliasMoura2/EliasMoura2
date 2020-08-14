@@ -40,24 +40,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
-<img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/><br /><br />
-<img align="left" alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
-<img align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
-<img align="left" alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/>
-<img align="left" alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
-<img align="left" alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
-<img align="left" alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
-<img align="left" alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-<img align="left" alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
-<img align="left" alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
-<img align="left" alt="Mysql" src="https://icon-icons.com/icons2/2415/PNG/48/mysql_original_logo_icon_146416.png"/>
-<img align="left" alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
-<img align="left" alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
-<img align="left" alt="SQL" src="https://icon-icons.com/icons2/627/PNG/48/sql-document-outlined-interface-symbol_icon-icons.com_57504.png"/>
-<img align="left" alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
-<img align="left" alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
-<img align="left" alt="GraphQL" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_graphql_icon_130564.png"/>
+<img  alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+<img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/><br /><br />
+<img  alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
+<img  alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
+<img  alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/>
+<img alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
+<img alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
+<img  alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
+<img  alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
+<img  alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
+<img  alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
+<img  alt="Mysql" src="https://icon-icons.com/icons2/2415/PNG/48/mysql_original_logo_icon_146416.png"/>
+<img  alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
+<img  alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
+<img  alt="SQL" src="https://icon-icons.com/icons2/627/PNG/48/sql-document-outlined-interface-symbol_icon-icons.com_57504.png"/>
+<img  alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
+<img  alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
+<img  alt="GraphQL" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_graphql_icon_130564.png"/>
 
 
 
