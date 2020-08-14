@@ -53,8 +53,7 @@
       <td align="center">
         <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
+      <td align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
