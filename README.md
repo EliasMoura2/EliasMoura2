@@ -1,4 +1,4 @@
-## Hi, I'm Elias 👋, a passionate software developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="20"/>
+## Hi, I'm Elias 👋, a passionate software developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="28"/>
  
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Vue.js
@@ -45,7 +45,7 @@
 
 <img width="32px" src="https://cdn.svgporn.com/logos/python.svg">
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 <p>
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
