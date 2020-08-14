@@ -1,4 +1,6 @@
-## Hi, I'm Elias 👋, a passionate software developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="28"/>
+## Hi, I'm Elias 👋, a passionate software developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://icon-icons.com/icons2/83/PNG/48/argentina_15789.png"/>
+<!--<img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="28"/>-->
+
  
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Vue.js
@@ -39,8 +41,65 @@
 <br />
 
 ### Languages and Tools:
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <spanVS Code</span><br><br><br>
+        <img align="left" alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝘂𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<img align="left" alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
 <img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
 <img align="left" alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
 <img align="left" align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
@@ -59,7 +118,8 @@
 <img align="left" alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
 <img align="left" alt="GraphQL" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_graphql_icon_130564.png"/>
 
-
+<!--https://icon-icons.com/icons2/1381/PNG/48/utilitiesxterminal_93700.png
+https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402.png-->
 
 <!--<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
 
