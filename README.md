@@ -49,7 +49,7 @@
 </p>
 
 <p>
-<img align="left" alt="CSS3" width="24px" src="https://icon-icons.com/download/130661/SVG/32" />
+<img align="left" alt="CSS3" width="24px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" />
 </p>
 
 <p>
