@@ -50,6 +50,15 @@
        <td align="center">
          <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
        </td>
+       <td align="center">
+         <img align="left" alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
+       </td>
+       <td align="center">
+         <img align="left" alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
+       </td>
+            <td align="center">
+         <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+       </td>
     </tr>
     <tr>
       <td align="center">
@@ -77,8 +86,6 @@
 
 <img align="left" alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
 <img align="left" alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-<img align="left" alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
-<img align="left" alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
 <img align="left" alt="Mysql" src="https://icon-icons.com/icons2/2415/PNG/48/mysql_original_logo_icon_146416.png"/>
 <img align="left" alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
 <img align="left" alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
