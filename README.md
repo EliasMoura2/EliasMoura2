@@ -45,9 +45,6 @@
 <p>
 <img width="32px" src="https://cdn.svgporn.com/logos/python.svg">
 </p>
-<p>
-<img width="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
-</p>
 
 <p>
 <img align="left" alt="HTML5" width="28px" src="https://cdn.svgporn.com/logos/javascript.svg" />
