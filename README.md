@@ -47,7 +47,11 @@
 
 <img align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" />
 
-<img align="left" alt="JavaScript" width="32px" src="https://icon-icons.com/icons2/2415/PNG/32/javascript_original_logo_icon_146455.png" />
+<img align="left" alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/32/javascript_original_logo_icon_146455.png" />
+
+<img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/2108/PNG/48/linux_mint_icon_130886.png" />
+
+<img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png" />
 
 
 
