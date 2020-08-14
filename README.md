@@ -1,5 +1,4 @@
-### Hi, I'm Elias 👋
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸]
+### Hi, I'm Elias 👋, A passionate developer 👨‍💻 from Posadas, Misiones, Argentina :arg:]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
