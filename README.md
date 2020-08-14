@@ -45,6 +45,8 @@
 <img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
 
 </br>
+</br>
+</br>
 
 <img align="left" alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
 
