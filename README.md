@@ -54,7 +54,7 @@
       </td>
       <td width="25%" align="center">
         <spanVS Code</span><br><br><br>
-        <img align="left" alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+        <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
       </td>
       <td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
