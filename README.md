@@ -43,7 +43,7 @@
 ### Languages and Tools:
 <table>
   <tbody>
-    <tr valign="top">
+    <tr>
       <td  align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
