@@ -45,30 +45,27 @@
   <tbody>
     <tr>
       <td align="center">
-        <img align="left" alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
+        <img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
       </td>
       <td align="center">
         <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
      </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
+    <tr>
+     <td align="center">
+        <img alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
+     </td>
+     <td align="center">
+        <img align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
+     </td>
+     <td align="center">
+        <img alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/>
+     </td>
+      
+
+
     </tr>
+    
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗟𝗲𝘀𝘀</span><br><br><br>
@@ -90,9 +87,7 @@
   </tbody>
 </table>
 
-<img align="left" alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
-<img align="left" align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
-<img align="left" alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/>
+
 <img align="left" alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
 <img align="left" alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
 <img align="left" alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
