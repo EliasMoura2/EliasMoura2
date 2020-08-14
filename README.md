@@ -43,7 +43,7 @@
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+<img width="32px" src="https://cdn.svgporn.com/logos/python.svg">
 
 <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
