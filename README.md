@@ -55,9 +55,9 @@
 <img align="left" alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
 <img align="left" alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
 <img align="left" alt="SQL" src="https://icon-icons.com/icons2/627/PNG/48/sql-document-outlined-interface-symbol_icon-icons.com_57504.png"/>
-https://icon-icons.com/icons2/627/PNG/48/sql-document-outlined-interface-symbol_icon-icons.com_57504.png
-https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png
-https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png
+<img align="left" alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
+<img align="left" alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
+
 <!--<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />-->
 
 <img align="left" alt="GraphQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
