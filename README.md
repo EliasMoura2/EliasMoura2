@@ -54,7 +54,7 @@
 
 
 
-<img align="left" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
 
 <img align="left" alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
 
@@ -63,6 +63,12 @@
 <img align="left" alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
 
 <img align="left" alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
+
+<img align="left" alt="Mysql" src="https://icon-icons.com/icons2/2415/PNG/48/mysql_original_logo_icon_146416.png"/>
+
+<img align="left" alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
+
+
 
 
 <img align="left" alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
