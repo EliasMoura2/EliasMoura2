@@ -49,7 +49,7 @@
 </p>
 
 <p>
-<img align="left" alt="CSS3" width="24px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="CSS3" width="24px" src="https://icon-icons.com/download/130661/SVG/32" />
 </p>
 
 <p>
