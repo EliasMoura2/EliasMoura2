@@ -40,7 +40,7 @@
 
 ### Languages and Tools:
 
-<img  alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+<img  aling="left" alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
 <img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/><br /><br />
 <img  alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
 <img  alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
