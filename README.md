@@ -1,5 +1,4 @@
-# Hi, I'm Elias 👋
-## I'm a passionate developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="20"/>
+## Hi, I'm Elias 👋, a passionate software developer 👨‍💻 from Posadas, Misiones, Argentina <img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="20"/>
  
 
 - 🔭 I’m currently working on ...
