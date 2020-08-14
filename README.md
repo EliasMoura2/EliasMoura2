@@ -44,52 +44,37 @@
 <table>
   <tbody>
     <tr>
-      <td align="center">
-        <img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
-      </td>
-      <td align="center">
-        <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
-     </td>
+       <td align="center">
+         <img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
+       </td>
+       <td align="center">
+         <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
+       </td>
     </tr>
     <tr>
-     <td align="center">
+      <td align="center">
         <img alt="HTML5" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png"/>
-     </td>
-     <td align="center">
+      </td>
+      <td align="center">
         <img align="left" alt="CSS3" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png"/>
-     </td>
-     <td align="center">
+      </td>
+      <td align="center">
         <img alt="JavaScript" src="https://icon-icons.com/icons2/2415/PNG/48/javascript_original_logo_icon_146455.png"/>
-     </td>
-      
-
-
+      </td>
     </tr>
-    
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+    <tr>
+      <td align="center">
+        <img align="left" alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
       </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+      <td align="center">
+        <img align="left" alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
       </td>
     </tr>
   </tbody>
 </table>
 
 
-<img align="left" alt="Node.js" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png" />
-<img align="left" alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
+
 <img align="left" alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
 <img align="left" alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
 <img align="left" alt="Git" src="https://icon-icons.com/icons2/2415/PNG/48/git_original_logo_icon_146509.png"/>
