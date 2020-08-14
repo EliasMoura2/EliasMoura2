@@ -23,14 +23,17 @@
 
 <!-- <p align="center"> -->
 <p>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://twitter.com/DEliasmoura" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
   <a href="https://www.facebook.com/elias.moura.5" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  <a href="https://www.instagram.com/d.eliasmoura/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="EliasMoura" height="28px" width="28px" />
+  </a>
+   <a href="https://www.linkedin.com/in/elias-moura/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
 </p>
 <br />
@@ -81,6 +84,7 @@
 <!--[website]: https://codeSTACKr.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
 [instagram]: https://www.instagram.com/d.eliasmoura/
+[facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
 
 
