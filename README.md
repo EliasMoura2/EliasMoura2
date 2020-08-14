@@ -49,7 +49,7 @@
 </p>
 
 <p>
-<img align="left" alt="CSS3" width="24px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" />
+<img align="left" alt="CSS3" width="32px" src="https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png" />
 </p>
 
 <p>
