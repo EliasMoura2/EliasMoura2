@@ -45,7 +45,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 [<img align="left" alt="Elias Moura | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>][linkedin]
 [<img align="left" alt="Elias Moura | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>][email]
 [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
-[<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Facebook.svg"/>][facebook]
+[<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
 <!--[<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
   <!--<a href="mailto:d.eliasmoura2@gmail.com">-->
 <br><br>
