@@ -11,6 +11,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with Vue.js 😭;
 - 📫 How to reach me: ...
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love play soccer
