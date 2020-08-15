@@ -79,6 +79,9 @@
       <td align="center">
         <img alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
       </td>
+      <td>
+        <img alt="Arduino" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_arduino_icon_130743.png"/>
+      </td>
     </tr>
        <tr>
       <td align="center">
@@ -104,17 +107,15 @@
       <td align="center">
         <img alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
       </td>
-     <td>
+      <td>
        <img alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-     </td>
-     <td>
+      </td>
+      <td>
        <img alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
-     </td>
+      </td>
     </tr>
    </tbody>
 </table>
-
-
 
 <!--https://icon-icons.com/icons2/1381/PNG/48/utilitiesxterminal_93700.png
 https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402.png-->
