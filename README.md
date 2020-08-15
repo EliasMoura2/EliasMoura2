@@ -42,11 +42,10 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
   </a>
 <br /> -->
 
-[<img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
-[<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][email]
-   <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
+[<img align="left" alt="Elias Moura | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>][linkedin]
+[<img align="left" alt="Elias Moura | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>][email]
+[<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
+[<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/facebook.svg"/>][facebook]
 <!--[<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
   <!--<a href="mailto:d.eliasmoura2@gmail.com">-->
 <br><br>
