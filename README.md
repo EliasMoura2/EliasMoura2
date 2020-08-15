@@ -83,6 +83,9 @@
         <img alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
       </td>
       <td>
+        <img alt="PHP" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_php_icon_130266.png"/>
+      </td>
+      <td>
         <img alt="Arduino" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_arduino_icon_130743.png"/>
       </td>
     </tr>
@@ -107,15 +110,15 @@
       <td align="center">
         <img alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
       </td>
-      <td align="center">
+      <!--<td align="center">
         <img alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
-      </td>
+      </td>-->
       <td>
        <img alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
       </td>
-      <td>
+      <!--<td>
        <img alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
-      </td>
+      </td>-->
     </tr>
    </tbody>
 </table>
