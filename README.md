@@ -60,6 +60,10 @@
        <td align="center">
          <img alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
        </td>
+       <td align="center">
+         <img alt="GitLab" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_gitlab_icon_130579.png"/>
+       </td>
+
        <!--<td align="center">
          <img alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
        </td>-->
