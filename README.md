@@ -12,14 +12,11 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Vue.js 😭;
-- 📫 How to reach me: ...
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love play soccer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 <!--
 * [Personal Website](https://elissavet.me "Personal Website")-->
 
@@ -44,6 +41,21 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
 <br />
+
+
+  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/TheDudeThatCode">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/thedudethatcode/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+
 
 ### Languages and Tools:
 <table>
