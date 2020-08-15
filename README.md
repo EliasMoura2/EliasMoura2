@@ -157,6 +157,6 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 [instagram]: https://www.instagram.com/d.eliasmoura/
 [facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
-[email]: d.eliasmoura2@gmail.com
+[email]: mailto:d.eliasmoura2@gmail.com
 [The Robotics School]: https://escueladeroboticamisiones.edu.ar/
 
