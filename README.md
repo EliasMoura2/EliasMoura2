@@ -29,7 +29,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <br><br>
 ### Languages and Tools:
-<table style="border: 0;">
+<table style="border: 1px solid black;">
   <tbody>
     <tr>
        <td align="center">
