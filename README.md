@@ -14,43 +14,22 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 - 🤔 I’m looking for help with Vue.js 😭;
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love play soccer
-- 📝 See [my][Curriculum Vitae] to get more info.
-
-- 🥅 2020 Goals: Contribute more to Open Source projects
-<!--
-* [Personal Website](https://elissavet.me "Personal Website")-->
+<!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.-->
+<!--* [Personal Website](https://elissavet.me "Personal Website")-->
 
 ### Connect with me:
 
 <!--[<img align="left" alt="mouraelias.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-<!--[<img align="left" alt="EliasMoura | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
-<!--[<img align="left" alt="EliasMoura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-<!--[<img align="left" alt="EliasMoura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
-<!-- <p align="center"> -->
- <!-- <a href="https://twitter.com/DEliasmoura" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="EliasMoura" height="28px" width="28px" />
-  </a>
-  <a href="https://www.facebook.com/elias.moura.5" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="EliasMoura" height="28px" width="28px" />
-  </a>
-  <a href="https://www.instagram.com/d.eliasmoura/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="EliasMoura" height="28px" width="28px" />
-  </a>
-   <a href="https://www.linkedin.com/in/elias-moura/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="EliasMoura" height="28px" width="28px" />
-  </a>
-<br /> -->
 
 [<img align="left" alt="Elias Moura | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>][linkedin]
 [<img align="left" alt="Elias Moura | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>][email]
 [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
 [<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
-<!--[<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
-  <!--<a href="mailto:d.eliasmoura2@gmail.com">-->
+<!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <br><br>
 ### Languages and Tools:
-<table>
+<table style="border: 0;">
   <tbody>
     <tr>
        <td align="center">
@@ -158,4 +137,3 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 [linkedin]: https://www.linkedin.com/in/elias-moura/
 [email]: mailto:d.eliasmoura2@gmail.com
 [The Robotics School]: https://escueladeroboticamisiones.edu.ar/
-[Curriculum Vitae] https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing
