@@ -29,7 +29,6 @@ I have some works with **JavaScript** and **Node.js** , contact me if you have s
 <!--[<img align="left" alt="EliasMoura | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 <!-- <p align="center"> -->
-<p>
   <a href="https://twitter.com/DEliasmoura" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
@@ -42,7 +41,6 @@ I have some works with **JavaScript** and **Node.js** , contact me if you have s
    <a href="https://www.linkedin.com/in/elias-moura/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="EliasMoura" height="28px" width="28px" />
   </a>
-</p>
 <br />
 
 ### Languages and Tools:
