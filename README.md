@@ -13,22 +13,27 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Vue.js 😭;
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I love play soccer
+- ⚡ Fun fact: I love play soccer and watching Anime
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.-->
 <!--* [Personal Website](https://elissavet.me "Personal Website")-->
 
 ### Connect with me:
-
 <!--[<img align="left" alt="mouraelias.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-
-
 [<img align="left" alt="Elias Moura | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>][linkedin]
 [<img align="left" alt="Elias Moura | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>][email]
 [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
 [<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <br><br>
-### Languages and Tools:
+
+## 💻 Projects
+* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
+* [Basic Pokedex](https://pokedex-vanillajs.herokuapp.com/)
+* [Books App](https://books-full-js.herokuapp.com/)
+* [Portfolio](https://eliasportfolio.herokuapp.com/)
+<br><br>
+
+## ⚡ Languages and Tools:
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <table>
@@ -49,9 +54,9 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
        <td align="center">
          <img alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
        </td>
-       <td align="center">
+       <!--<td align="center">
          <img alt="GitLab" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_gitlab_icon_130579.png"/>
-       </td>
+       </td>-->
        <!--<td align="center">
          <img alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
        </td>-->
@@ -74,9 +79,9 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
       <td align="center">
         <img alt="Express" src="https://icon-icons.com/icons2/2415/PNG/48/express_original_logo_icon_146527.png"/>
       </td>
-      <td>
+      <!--<td>
         <img alt="PHP" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_php_icon_130266.png"/>
-      </td>
+      </td>-->
       <td>
         <img alt="Arduino" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_arduino_icon_130743.png"/>
       </td>
@@ -135,7 +140,7 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
-[twitter]: https://twitter.com/inxdev1
+<!--[twitter]: https://twitter.com/inxdev1 -->
 [instagram]: https://www.instagram.com/d.eliasmoura/
 [facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
