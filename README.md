@@ -2,10 +2,12 @@
 ## I am from the Posadas, Misiones, Argentina <img valign="bottom" src="https://icon-icons.com/icons2/83/PNG/32/argentina_15789.png"/>
 <!--<img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="28"/>-->
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 I am a Junior Junior Javascript Developer and a Software Engineering student. I'm currently working on [The Robotics School] as a Back-End developer. I have some works with **JavaScript** and **Node.js**.
 
 <!--<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />-->
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other developers
