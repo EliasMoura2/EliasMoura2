@@ -49,6 +49,9 @@
          <img alt="Linux mint" src="https://icon-icons.com/icons2/159/PNG/48/logo_linux_mint_22361.png"/>
        </td>
        <td align="center">
+         <img alt="Terminal - Bash" src="https://icon-icons.com/icons2/1381/PNG/48/utilitiesxterminal_93700.png"/>
+       </td>
+       <td align="center">
          <img alt="Visual Studio Code" src="https://icon-icons.com/icons2/615/PNG/48/Visual_Code_icon-icons.com_56584.png"/>
        </td>
        <td align="center">
@@ -117,7 +120,7 @@
    </tbody>
 </table>
 
-<!--https://icon-icons.com/icons2/1381/PNG/48/utilitiesxterminal_93700.png
+<!--
 https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402.png-->
 
 <!--<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
