@@ -128,7 +128,7 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 <img align="left" alt="Elias Moura's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
 -->
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<p align="center">![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)</p>
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
 [twitter]: https://twitter.com/inxdev1
