@@ -49,7 +49,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
   </a>
 <!--[<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
   <!--<a href="mailto:d.eliasmoura2@gmail.com">-->
-
+<br><br>
 ### Languages and Tools:
 <table>
   <tbody>
