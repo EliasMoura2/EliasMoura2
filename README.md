@@ -14,7 +14,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 - 🤔 I’m looking for help with Vue.js 😭;
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love play soccer
-
+- 📝 See [my][Curriculum Vitae] to get more info.
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 <!--
@@ -158,4 +158,4 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 [linkedin]: https://www.linkedin.com/in/elias-moura/
 [email]: mailto:d.eliasmoura2@gmail.com
 [The Robotics School]: https://escueladeroboticamisiones.edu.ar/
-
+[Curriculum Vitae] https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing
