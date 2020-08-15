@@ -155,7 +155,7 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
-[twitter]: https://twitter.com/inxdev
+[twitter]: https://twitter.com/inxdev1
 [instagram]: https://www.instagram.com/d.eliasmoura/
 [facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
