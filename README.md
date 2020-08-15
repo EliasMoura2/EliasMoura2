@@ -56,9 +56,9 @@
        <td align="center">
          <img alt="GitHub" src="https://icon-icons.com/icons2/2415/PNG/48/github_original_logo_icon_146505.png"/>
        </td>
-       <td align="center">
+       <!--<td align="center">
          <img alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
-       </td>
+       </td>-->
     </tr>
     <tr>
       <td align="center">
@@ -92,23 +92,25 @@
       <td align="center">
         <img alt="MongoDB" src="https://icon-icons.com/icons2/2415/PNG/48/mongodb_original_logo_icon_146424.png"/>
       </td>
-      <td align="center">
+      <!--<td align="center">
         <img alt="GraphQL" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_graphql_icon_130564.png"/>
-      </td>
+      </td>-->
     </tr>
-   
-   
-   
-
-
-
-
-   <img align="left" alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
-<img align="left" alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-   
-<img align="left" alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
-<img align="left" alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
-  </tbody>
+    <tr>
+      <td align="center">
+        <img alt="BOOSTRAP" src="https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png"/>
+      </td>
+      <td align="center">
+        <img alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
+      </td>
+     <td>
+       <img alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
+     </td>
+     <td>
+       <img alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
+     </td>
+    </tr>
+   </tbody>
 </table>
 
 
