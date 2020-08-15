@@ -43,9 +43,7 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 <br />
 
 [<img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+[<img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
   <a href="https://www.instagram.com/thedudethatcode/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
@@ -157,6 +155,7 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
+[twitter]: https://twitter.com/inxdev
 [instagram]: https://www.instagram.com/d.eliasmoura/
 [facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
