@@ -1,8 +1,10 @@
-## Hi, I'm Elias 👋
-## I'm a software developer 👨‍💻 from Posadas, Misiones, Argentina <img valign="bottom" src="https://icon-icons.com/icons2/83/PNG/32/argentina_15789.png"/>
+## Hi, I'm Elias 👋 .
+## I am from the Posadas, Misiones, Argentina <img valign="bottom" src="https://icon-icons.com/icons2/83/PNG/32/argentina_15789.png"/>
 <!--<img src="https://image.flaticon.com/icons/svg/164/164900.svg" width="28"/>-->
 
- 
+I am a Junior Full Stack Web Developer and a Software Engineering student . I'm currently working on [The Robotics School] as a Font-End engineer.  
+I have some works with **JavaScript** and **Node.js** , contact me if you have same interesting or some questions!
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other developers
@@ -16,6 +18,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+<!--
+* [Personal Website](https://elissavet.me "Personal Website")-->
 
 ### Connect with me:
 
@@ -63,7 +67,6 @@
        <td align="center">
          <img alt="GitLab" src="https://icon-icons.com/icons2/2107/PNG/48/file_type_gitlab_icon_130579.png"/>
        </td>
-
        <!--<td align="center">
          <img alt="Heroku" src="https://icon-icons.com/icons2/2415/PNG/48/heroku_plain_logo_icon_146479.png"/>
        </td>-->
@@ -148,5 +151,5 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 [instagram]: https://www.instagram.com/d.eliasmoura/
 [facebook]: https://www.facebook.com/elias.moura.5/
 [linkedin]: https://www.linkedin.com/in/elias-moura/
-
+[The Robotics School]: https://escueladeroboticamisiones.edu.ar/
 
