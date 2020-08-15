@@ -29,6 +29,8 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <br><br>
 ### Languages and Tools:
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <table>
   <tbody>
     <tr>
@@ -128,7 +130,9 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 <img align="left" alt="Elias Moura's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
 -->
-<p align="center">![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)</p>
+
+<img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
+
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
 [twitter]: https://twitter.com/inxdev1
