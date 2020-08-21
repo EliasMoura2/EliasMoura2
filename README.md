@@ -110,9 +110,9 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
       <!--<td align="center">
         <img alt="Webpack" src="https://icon-icons.com/icons2/2415/PNG/48/webpack_original_logo_icon_146300.png"/>
       </td>-->
-      <td>
+<!--       <td>
        <img alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-      </td>
+      </td> -->
       <!--<td>
        <img alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
       </td>-->
