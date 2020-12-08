@@ -27,10 +27,10 @@ I am a Junior Junior Javascript Developer and a Software Engineering student. I'
 <br><br>
 
 ## 💻 Projects
+* [Portfolio](https://eliasportfolio.herokuapp.com/)
 * [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
 * [Basic Pokedex](https://pokedex-vanillajs.herokuapp.com/)
 * [Books App](https://books-full-js.herokuapp.com/)
-* [Portfolio](https://eliasportfolio.herokuapp.com/)
 <br><br>
 
 ## ⚡ Languages and Tools:
