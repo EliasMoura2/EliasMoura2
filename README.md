@@ -13,7 +13,7 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Vue.js;
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I love play soccer and watching Anime
+- ⚡ Fun fact: I love play soccer and watching movies
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.-->
 <!--* [Personal Website](https://elissavet.me "Personal Website")-->
 
