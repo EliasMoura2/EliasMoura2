@@ -24,14 +24,16 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
 [<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
-<br><br>
+<br>
+<!-- <br> -->
 
 ## 💻 Projects
 * [Portfolio](https://eliasportfolio.herokuapp.com/)
 <!--* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
 * [Basic Pokedex](https://pokedex-vanillajs.herokuapp.com/)
 * [Books App](https://books-full-js.herokuapp.com/) -->
-<br><br>
+<br>
+<!-- <br> -->
 
 ## ⚡ Languages and Tools:
 
@@ -128,7 +130,7 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 <!--<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br />
-<br />
+<!-- <br> -->
 
 <!--<details>
   <summary>:zap: Github Stats</summary>
