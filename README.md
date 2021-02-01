@@ -28,9 +28,9 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 
 ## 💻 Projects
 * [Portfolio](https://eliasportfolio.herokuapp.com/)
-* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
+<!--* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
 * [Basic Pokedex](https://pokedex-vanillajs.herokuapp.com/)
-* [Books App](https://books-full-js.herokuapp.com/)
+* [Books App](https://books-full-js.herokuapp.com/) -->
 <br><br>
 
 ## ⚡ Languages and Tools:
@@ -134,9 +134,8 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
   <summary>:zap: Github Stats</summary>
 <img align="left" alt="Elias Moura's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
--->
+<img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/> -->
 
-<img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
