@@ -26,6 +26,7 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <!-- <br> -->
 <br>
+
 ## 💻 Projects
 * [Portfolio](https://eliasportfolio.herokuapp.com/)
 <!--* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
