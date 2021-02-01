@@ -24,9 +24,8 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
 [<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
 <!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
-<br>
 <!-- <br> -->
-
+<!-- <br> -->
 ## 💻 Projects
 * [Portfolio](https://eliasportfolio.herokuapp.com/)
 <!--* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
@@ -34,9 +33,7 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 * [Books App](https://books-full-js.herokuapp.com/) -->
 <br>
 <!-- <br> -->
-
 ## ⚡ Languages and Tools:
-
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <table>
   <tbody>
@@ -121,24 +118,17 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
     </tr>
    </tbody>
 </table>
-
 <!--
-https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402.png-->
-
-<!--<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-
-<!--<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<br />
+https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402.png
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <!-- <br> -->
-
+<!-- <br> -->
 <!--<details>
   <summary>:zap: Github Stats</summary>
 <img align="left" alt="Elias Moura's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
 <img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/> -->
-
-
 <!--[website]: https://eliasmoura.com-->
 <!--[twitter]: https://twitter.com/DEliasmoura-->
 <!--[twitter]: https://twitter.com/inxdev1 -->
