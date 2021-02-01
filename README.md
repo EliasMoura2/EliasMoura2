@@ -9,9 +9,9 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
 
 <!--<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />-->
 
-- 🌱 I’m currently learning Node.js and React.js
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with Node and React.js;
+- 🤔 I’m looking for help with Node.js
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I love play soccer or padel and watching movies
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.-->
@@ -112,10 +112,10 @@ I am a Junior Full Stack Developer and a Software Engineering student. I'm curre
       </td>
       <td>
        <img alt="Vue.js" src="https://icon-icons.com/icons2/2415/PNG/48/vuejs_original_logo_icon_146304.png"/>
-      </td> -->
+      </td> 
       <td>
        <img alt="React.js" src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png"/>
-      </td>
+      </td>-->
     </tr>
    </tbody>
 </table>
