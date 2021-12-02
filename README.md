@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-I am a Junior Web Developer and a Software Engineering student. I'm currently working on [Exo mindset - NaranjaZ] as a Back-End developer. I have some works with **JavaScript** and **Node.js**.
+I am a Junior Web Developer and a Software Engineering student. I'm currently working on Exo mindset-NaranjaX as a Back-End developer. I have some works with **JavaScript** and **Node.js**.
 
 <!--<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />-->
 
