@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-I am a Junior Web Developer and a Software Engineering student. I'm currently working on [The Robotics School] as a Back-End developer. I have some works with **JavaScript** and **Node.js**.
+I am a Junior Web Developer and a Software Engineering student. I'm currently working on [Exo mindset - NaranjaZ] as a Back-End developer. I have some works with **JavaScript** and **Node.js**.
 
 <!--<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />-->
 
@@ -135,8 +135,8 @@ https://icon-icons.com/icons2/2415/PNG/48/npm_original_wordmark_logo_icon_146402
 <!--[twitter]: https://twitter.com/DEliasmoura-->
 <!--[twitter]: https://twitter.com/inxdev1 -->
 
-[instagram]: https://www.instagram.com/d.eliasmoura/
-[facebook]: https://www.facebook.com/elias.moura.5/
+<!--[instagram]: https://www.instagram.com/d.eliasmoura/
+[facebook]: https://www.facebook.com/elias.moura.5/ -->
 [linkedin]: https://www.linkedin.com/in/elias-moura/
 [email]: mailto:d.eliasmoura2@gmail.com
-[The Robotics School]: https://escueladeroboticamisiones.edu.ar/
+<!-- [The Robotics School]: https://escueladeroboticamisiones.edu.ar/ -->
