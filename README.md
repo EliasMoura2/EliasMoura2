@@ -21,9 +21,9 @@ I am a Junior Web Developer and a Software Engineering student. I'm currently wo
 <!--[<img align="left" alt="mouraelias.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="Elias Moura | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>][linkedin]
 [<img align="left" alt="Elias Moura | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>][email]
-[<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
+<!-- [<img align="left" alt="Elias Moura | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>][instagram]
 [<img align="left" alt="Elias Moura | Facebook" width="24px" src="https://icon-icons.com/icons2/1099/PNG/48/1485482214-facebook_78681.png"/>][facebook]
-<!--[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
+[<img align="left" alt="Elias Moura | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 <!-- <br> -->
 <br>
 
