@@ -27,8 +27,8 @@ I am a Junior Web Developer and a Software Engineering student. I'm currently wo
 <!-- <br> -->
 <br>
 
-## 💻 Projects
-* [Portfolio](https://eliasmoura2.github.io/)
+<!--## 💻 Projects
+* [Portfolio](https://eliasmoura2.github.io/) -->
 <!--* [Todo List](https://todo-basic-js-localstorage.herokuapp.com/)
 * [Basic Pokedex](https://pokedex-vanillajs.herokuapp.com/)
 * [Books App](https://books-full-js.herokuapp.com/) -->
